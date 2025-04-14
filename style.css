@@ -52,7 +52,7 @@ h2 {
 
 @media (width < 450px) {
     body {
-        padding: 100px;
+        padding: 50px;
     }
 
     .container {
